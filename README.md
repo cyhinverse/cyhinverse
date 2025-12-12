@@ -1,77 +1,82 @@
 # <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C2BD9&height=200&section=header&text=Hi%2C%20I'm%20Cyhin!&fontSize=70&fontColor=fff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Hi%2C%20I%27m%20Cyhin&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
   <br/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3000&pause=1000&color=6C2BD9&center=true&vCenter=true&width=500&lines=Software+Engineer;Fullstack+Developer;AI+%26+Mobile+Enthusiast;Problem+Solver" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Backend+%26+Mobile;AI+%7C+Distributed+Systems;Building+clean+scalable+products"/>
 
   <br/>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Email-6C2BD9?style=for-the-badge&logo=gmail&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Portfolio-6C2BD9?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <a href="#projects"><img src="https://img.shields.io/badge/Projects-4-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="#tech-stack"><img src="https://img.shields.io/badge/Tech-Stack-111827?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
+    <a href="#contact"><img src="https://img.shields.io/badge/Contact-Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 Xin chào — về mình
 
-> “A bug is never just a mistake. It represents something deeper — an error in thinking. And fixing it makes you better.”
+Mình là **Cyhin** — software engineer thích build backend scalable, mobile apps và tích hợp AI. Thích code sạch, design hiện đại và tối ưu hiệu năng.
 
-I’m **Cyhin**, a Software Engineer focusing on **Web Backend**, **Mobile**, and recently **AI‑powered applications**. I love building clean systems, scalable backends, and modern UX‑driven products.
-
-* 🚀 Currently working on **Backend + Mobile + AI integration**.
-* 📚 Learning **Deep Learning, Distributed Systems & iOS**.
-* 💬 Ask me about **Node.js, React, Swift, MongoDB, and cloud stuff**.
-* ⚡ Fun fact: **Gym rat + always coding with music**.
+* 🔭 Hiện tại: xây hệ thống backend + app mobile + tích hợp AI
+* 🌱 Học: Deep Learning & Distributed Systems
+* 💬 Hỏi mình về: Node.js, React, Swift, Docker, Redis, hệ thống phân tán
+* 🎧 Thói quen: code + gym + music
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech stack
 
 <div align="center">
 
-|                                  **Core**                                 |                                         **Backend / Database**                                         |                                 **Frontend / Mobile**                                |                                  **DevOps & Tools**                                 |
-| :-----------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
-| <img height="40" src="https://skillicons.dev/icons?i=js,ts,cpp,python" /> | <img height="40" src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,redis" /> | <img height="40" src="https://skillicons.dev/icons?i=react,flutter,swift,android" /> | <img height="40" src="https://skillicons.dev/icons?i=aws,docker,nginx,git,linux" /> |
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,flutter,swift,python,postgres,mongodb,redis,docker,aws" height="40"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Projects
+
+| Project              | What                                         | Link                                                 |
+| :------------------- | :------------------------------------------- | :--------------------------------------------------- |
+| **AI Mood Designer** | Tạo mood UI tự động bằng AI cho designer     | [Repo](https://github.com/yourname/ai-mood-designer) |
+| **VN Store**         | E‑commerce + VNPay integration               | [Repo](https://github.com/yourname/vn-store)         |
+| **MusicSocial**      | Social + Music streaming, real‑time features | [Repo](https://github.com/yourname/musicsocial)      |
+
+> Muốn thêm project vào bảng? đổi link, mô tả nhanh là mình chỉnh nổi.
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyhinverse&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyhinverse&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cyhinverse&show_icons=true&theme=dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyhinverse&layout=compact&theme=dark&hide_border=true" height="170"/>
 </div>
 
 ---
 
-## 🏆 Projects & Contributions
+## ✨ Extras (tùy chọn)
 
-| Project                    | Description                                                     |
-| :------------------------- | :-------------------------------------------------------------- |
-| **AI Mood Designer**       | Building an AI‑powered UI/UX mood generator for modern apps.    |
-| **VN Store Platform**      | Developing e‑commerce features with VNPay integration.          |
-| **Networking + Music App** | A social + music hybrid with real‑time features.                |
-| **Open‑source Utils**      | Small tools for automation, AI prompts, and content generation. |
+* **Current Setup:** MacBook Pro / Ubuntu / Zsh / VSCode
+* **Open to:** freelance, collaboration, mentoring
+* **Languages:** Vietnamese (native), English (proficient)
 
 ---
 
+## 📫 Contact
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cyhinverse&style=flat-square&color=6C2BD9" />
-  <br/>
-  <small>Last updated: 2025</small>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-your.email%40example.com-111827?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Profile-111827?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://cyhin.dev"><img src="https://img.shields.io/badge/Website-cyhin.dev-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </div>
+
+---
+
+<p align="center">
+  <small style="color:#888">Theme: Black Luxury • Generated for Cyhin — chỉnh được mọi phần nhanh.</small>
+</p>
