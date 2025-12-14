@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=cyhinsever&label=Profile%20views&color=0e75b6&style=flat-square" alt="cyhinsever" />
+  <img src="https://komarev.com/ghpvc/?username=cyhinverse&label=Profile%20views&color=0e75b6&style=flat-square" alt="cyhinverse" />
 </p>
 
 <br>
@@ -119,4 +119,14 @@
 <h3 align="left">🔥 LeetCode Activity</h3>
 <p align="left ">
   <img src="https://leetcard.jacoblin.cool/cyhin?theme=dark&ext=heatmap" alt="LeetCode Activity" />
+</p>
+<h3 align="left">📂 Featured Repositories</h3>
+<p align="left">
+  <a href="https://github.com/cyhinverse/server-ecommerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyhinverse&repo=server-ecommerce&theme=dark&hide_border=true&icon_color=0E75B6" alt="Repo 1" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/cyhinverse/client-ecommerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyhinverse&repo=client-ecommerce&theme=dark&hide_border=true&icon_color=0E75B6" alt="Repo 2" />
+  </a>
 </p>
