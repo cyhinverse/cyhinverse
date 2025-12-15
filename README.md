@@ -43,7 +43,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/> </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> </a>
+  <!-- <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> </a> -->
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a>
 </p>
@@ -54,7 +54,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="45" height="45"/> </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="45" height="45"/> </a>
+  <!-- <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="45" height="45"/> </a> -->
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="45" height="45"/> </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
