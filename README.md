@@ -15,8 +15,8 @@
 <h3 align="left">🧐 About Me</h3>
 <ul align="left">
  <li>🌱 I’m currently learning: <strong>AWS & Cloud Computing</strong></li>
- <li>👨‍💻 Projects available at: <a href="https://cyhin.engineer"><strong>etiso.me</strong></a></li>
- <li>📝 I write articles on: <a href="https://cyhin.engineer"><strong>etiso.me</strong></a></li>
+ <li>👨‍💻 Projects available at: <a href="https://cyhin.engineer"><strong>cyhin.engineer</strong></a></li>
+ <li>📝 I write articles on: <a href="https://cyhin.engineer"><strong>cyhin.engineer</strong></a></li>
  <li>💬 Ask me about: <strong>React, Express, System Design</strong></li>
  <li>📫 Reach me at: <strong>cyhincdr@gmail.com</strong></li>
  <li>⚡ Fun fact: <strong>I think I am very special</strong></li>
