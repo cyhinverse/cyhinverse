@@ -24,7 +24,6 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aurelynnio&show_icons=true&theme=graywhite&hide_border=true&count_private=true" alt="Cyhin's Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aurelynnio&show_icons=true&locale=en&layout=compact&theme=graywhite&hide_border=true&langs_count=6" alt="Top Languages" height="150" />
