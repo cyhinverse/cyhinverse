@@ -1,4 +1,4 @@
-# Hi there, I'm Cyhin 👋
+# Hi there, I'm Aurelynnio 👋
 
 > A passionate Frontend Developer from Vietnam 🇻🇳 exploring System Design & Cloud Computing.
 
@@ -17,7 +17,7 @@
 | Domain | Technologies |
 | :--- | :--- |
 | **Frontend** | React, Next.js, Redux, Tailwind CSS, TypeScript |
-| **Backend** | Node.js, Express, Spring Boot, GraphQL |
+| **Backend** | Node.js, Express, Spring Boot, GraphQL, RestAPI |
 | **Database** | PostgreSQL, MongoDB, Redis |
 | **DevOps & Tools** | Docker, Jenkins, Git, Linux, Postman, Jest |
 
@@ -26,11 +26,11 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyhinverse&show_icons=true&theme=graywhite&hide_border=true&count_private=true" alt="Cyhin's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cyhinverse&show_icons=true&locale=en&layout=compact&theme=graywhite&hide_border=true&langs_count=6" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aurelynnio&show_icons=true&theme=graywhite&hide_border=true&count_private=true" alt="Cyhin's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aurelynnio&show_icons=true&locale=en&layout=compact&theme=graywhite&hide_border=true&langs_count=6" alt="Top Languages" height="150" />
 </p>
 
 ### 📂 Featured Repositories
 
-- **[server-ecommerce](https://github.com/cyhinverse/server-ecommerce)**: Backend architecture for e-commerce system (Node.js/Express).
-- **[client-ecommerce](https://github.com/cyhinverse/client-ecommerce)**: Modern frontend interface for e-commerce platform (React).
+- **[server-ecommerce](https://github.com/aurelynnio/server-ecommerce)**: Backend architecture for e-commerce system (Node.js/Express).
+- **[client-ecommerce](https://github.com/aurelynnio/client-ecommerce)**: Modern frontend interface for e-commerce platform (React).
