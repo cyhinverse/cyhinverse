@@ -32,16 +32,8 @@ I enjoy building APIs, working with databases, designing authentication flows, a
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=aurelynnio&show_icons=true&theme=default&hide_border=true&include_all_commits=true" 
-    alt="Aurelynnio's GitHub Stats" 
-    height="150" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurelynnio&layout=compact&theme=default&hide_border=true&langs_count=6" 
-    alt="Aurelynnio's Top Languages" 
-    height="150" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aurelynnio&show_icons=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurelynnio&layout=compact" height="150" />
 </p>
 
 ---
