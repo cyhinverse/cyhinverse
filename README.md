@@ -1,35 +1,52 @@
 # Hi there, I'm Aurelynnio 👋
 
-> A passionate Frontend Developer from Vietnam 🇻🇳 exploring System Design & Cloud Computing.
+> Software Engineering student from Vietnam 🇻🇳, focused on backend development and practical web services.
 
-### 🧐 About Me
-
-- 🌱 **Currently learning:** AWS & Cloud Computing
-- 👨‍💻 **Portfolio:** [cyhin.engineer](https://cyhin.engineer)
-- 💬 **Ask me about:** React, Express, System Design
-- 📫 **Contact:** [cyhincdr@gmail.com](mailto:cyhincdr@gmail.com)
-- 🤝 **Connect:** [LinkedIn Profile](https://linkedin.com/in/tranphanquocanh)
+I enjoy building APIs, working with databases, designing authentication flows, and learning how backend systems scale in real-world environments. Currently, I’m improving my skills in cloud computing, system design, and production-ready development workflows.
 
 ---
 
-### 🛠 Tech Stack
+## 🧑‍💻 About Me
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Frontend** | React, Next.js, Redux, Tailwind CSS, TypeScript |
-| **Backend** | Node.js, Express, Spring Boot, GraphQL, RestAPI |
-| **Database** | PostgreSQL, MongoDB, Redis |
-| **DevOps & Tools** | Docker, Jenkins, Git, Linux, Postman, Jest |
+* 🎓 Software Engineering student at **HUTECH University**
+* 🌱 Currently learning **AWS, Docker, System Design, and Cloud Computing**
+* 💬 Ask me about **Node.js, Express.js, Spring Boot, MongoDB, Redis, RabbitMQ, REST APIs**
+* 🌐 Portfolio: [cyhin.engineer](https://cyhin.engineer)
+* 📫 Contact: [codex.mmxxvi@gmail.com](mailto:codex.mmxxvi@gmail.com)
+* 🤝 LinkedIn: [linkedin.com/in/tranphanquocanh](https://linkedin.com/in/tranphanquocanh)
 
 ---
 
-### 📊 GitHub Stats
+## 🛠 Tech Stack
+
+| Domain                    | Technologies                                                   |
+| :------------------------ | :------------------------------------------------------------- |
+| **Languages**             | Java, SQL, JavaScript, TypeScript                              |
+| **Backend**               | Node.js, Express.js, Spring Boot, Spring Cloud, REST APIs      |
+| **Frontend**              | React.js, Next.js                                              |
+| **Databases & Messaging** | MySQL, MongoDB, Redis, RabbitMQ                                |
+| **DevOps & Tools**        | Docker, Git, GitHub, Postman, AWS EC2, AWS ECR, GitHub Actions |
+
+---
+
+## 📊 GitHub Stats
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aurelynnio&show_icons=true&theme=graywhite&hide_border=true&count_private=true" alt="Cyhin's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aurelynnio&show_icons=true&theme=graywhite&hide_border=true&count_private=true" alt="Aurelynnio's GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aurelynnio&show_icons=true&locale=en&layout=compact&theme=graywhite&hide_border=true&langs_count=6" alt="Top Languages" height="150" />
 </p>
 
-### 📂 Featured Repositories
+---
 
-- **[server-ecommerce](https://github.com/aurelynnio/server-ecommerce)**: Backend architecture for e-commerce system (Node.js/Express).
-- **[client-ecommerce](https://github.com/aurelynnio/client-ecommerce)**: Modern frontend interface for e-commerce platform (React).
+## 🌱 Currently Learning
+
+* Cloud deployment with AWS
+* Backend system design
+* Dockerized development workflows
+* Clean API architecture and service communication
+
+---
+
+<p align="left">
+  <em>Building small things carefully, then making them stronger step by step.</em>
+</p>
