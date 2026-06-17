@@ -12,7 +12,7 @@ I enjoy building APIs, working with databases, designing authentication flows, a
 * 🌱 Currently learning **AWS, Docker, System Design, and Cloud Computing**
 * 💬 Ask me about **Node.js, Express.js, Spring Boot, MongoDB, Redis, RabbitMQ, REST APIs**
 * 🌐 Portfolio: [cyhin.engineer](https://cyhin.engineer)
-* 📫 Contact: [codex.mmxxvi@gmail.com](mailto:codex.mmxxvi@gmail.com)
+* 📫 Contact: [aurelynnio.mmxxvi@gmail.com](mailto:aurelynnio.mmxxvi@gmail.com)
 * 🤝 LinkedIn: [linkedin.com/in/tranphanquocanh](https://linkedin.com/in/tranphanquocanh)
 
 ---
